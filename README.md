@@ -18,5 +18,5 @@ Usage:
     server.close(<callback>); //closing all connections
 
 app.js - sample runner with static mount of everything under 'www' directory.
-test/ - the testing suite. Run node test/tester.js
-load.js - load test of big amount of simultaneous requests.
+test/tester.js - the testing suite. 
+test/load.js - load test of big amount of simultaneous requests.
