@@ -1,0 +1,20 @@
+{
+  "name": "mini_express",
+  "version": "0.0.2",
+  "description": 
+   "Express-like module with custom HTTP server on top of Node.js TCP server.",
+  "main": "./miniExpress",
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexei-tilikin/miniExpress.git"
+  },
+  "author": {
+      "name": "Alexei Tilikin",
+      "email": "alexei.tilikin@mail.huji.ac.il"
+  }
+  
+} 
